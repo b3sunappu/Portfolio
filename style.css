@@ -34,7 +34,7 @@ body {
 }
 @media (min-width: 1200px) {
   .gallery {
-    height: 100vh;
+    height: 150vh;
   }
   .gallery__strip__wrapper {
     flex: 0 0 25%;
